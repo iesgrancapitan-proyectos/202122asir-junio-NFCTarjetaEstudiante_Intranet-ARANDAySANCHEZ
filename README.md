@@ -24,8 +24,8 @@ Para el despliegue de una AppWeb necesitamos la instancia con:
 3. Informacion sobre cómo usarlo
 
 Tiene un uso realmente intuitivo en el que solamente tendremos que pasar las tarjetas nfc. Aunque hemos creado unos manuales tanto como para el administrador como para el usuario.
-  - Manual Administrador
-  - Manual Usuario
+ - [Manual Administrador](https://github.com/iesgrancapitan-proyectos/202122asir-junio-NFCTarjetaEstudiante_Intranet-ARANDAySANCHEZ/wiki/10.1-Manual-de-Administraci%C3%B3n)
+ - [Manual Usuario](https://github.com/iesgrancapitan-proyectos/202122asir-junio-NFCTarjetaEstudiante_Intranet-ARANDAySANCHEZ/wiki/10.2-Manual-Usuario)
 
 4. Autores
 
